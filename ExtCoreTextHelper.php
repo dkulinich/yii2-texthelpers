@@ -11,7 +11,7 @@ namespace dkulinich\texthelpers;
  * POST-параметры, используемые хелпером начинаются с префикса "json_".
  *
  */
-class ExtCoreTextHelper extends yii\base\Component
+class ExtCoreTextHelper extends \yii\base\Component
 {
     /**
      * минимальное количество слов,
