@@ -1,0 +1,21 @@
+{
+    "name": "dkulinich/yii2-texthelpers",
+    "description": "Text Helpers",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","texthelpers"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Kulinich",
+            "email": "kulinich.dmitriy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dkulinich\\texthelpers\\": ""
+        }
+    }
+}
